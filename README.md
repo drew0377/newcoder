@@ -1,0 +1,2 @@
+# newcoder
+New guy learning
